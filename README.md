@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Susovan Patra
 
 **AI/ML Engineer | M.Tech (CSE) @ IIT Kanpur | Building Next-Gen AI Solutions**  
-🚀 Open to AI/ML/DL/NLP roles | 📧 susovanpatra00@gmail.com/09susovanpatra3@gmail.com | 📱 +91-9609295698/+91-8597253561  
+🚀 Open to AI/ML/DL roles | 📧 susovanpatra00@gmail.com/09susovanpatra3@gmail.com | 📱 +91-9609295698/+91-8597253561  
 [GitHub](https://github.com/susovanpatra00) | [LinkedIn](https://www.linkedin.com/in/susovanpatra/)
 
 ---
@@ -28,6 +28,7 @@
 - **M&A Contract Analysis:** Designed AI-driven contract comparison tools leveraging NLP and LLMs for due diligence.
 - **Speech Diarization & Task Tracking:** Developed systems for multi-speaker segmentation and automated task extraction from conversations.
 - **Real-Time Speech-to-Speech Translation:** Engineered multilingual, real-time voice translation using neural MT models and TTS.
+- **Confidential Knowledge Discovery Platform:** Built a secure, cross-company system for the Motherson Group that enables users to search confidential PDF/Excel data and web sources on any topic, with answers cited by source and enhanced by LLM-powered reasoning.
 
 ---
 
