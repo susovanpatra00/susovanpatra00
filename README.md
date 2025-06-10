@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Susovan Patra
 
 **AI/ML Engineer | M.Tech (CSE) @ IIT Kanpur | Building Next-Gen AI Solutions**  
-🚀 Open to AI/ML/DL roles | 📧 susovanpatra00@gmail.com/09susovanpatra3@gmail.com | 📱 +91-9609295698/+91-8597253561  
+🚀 Open to AI/ML/DL roles | 📧 susovanpatra00@gmail.com | 📱 +91-9609295698
 [GitHub](https://github.com/susovanpatra00) | [LinkedIn](https://www.linkedin.com/in/susovanpatra/)
 
 ---
@@ -94,8 +94,8 @@
 
 ## 📫 Contact
 
-- **Email:** susovanpatra00@gmail.com
-- **Phone:** +91-9609295698
+- **Email:** susovanpatra00@gmail.com/09susovanpatra3@gmail.com
+- **Phone:** +91-9609295698/+91-8597253561
 - **LinkedIn:** [Susovan Patra](https://www.linkedin.com/in/susovanpatra/)
 - **GitHub:** [susovanpatra00](https://github.com/susovanpatra00)
 
