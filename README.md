@@ -8,12 +8,12 @@
 
 ## 🏫 Education
 
-| Year        | Degree/Certificate        | Institute                                             | CPI/%      |
-|-------------|--------------------------|-------------------------------------------------------|------------|
-| 2022-2024   | M.Tech (CSE)             | Indian Institute of Technology Kanpur                 | 7.9/10     |
-| 2018-2022   | B.Tech (CSBS)            | Sister Nivedita University, Kolkata                   | 8.33/10    |
-| 2018        | CBSE (XII)               | Jawahar Navodaya Vidyalaya, Purba Medinipur           | 86.6%      |
-| 2016        | CBSE (X)                 | Jawahar Navodaya Vidyalaya, Purba Medinipur           | 9.8/10     |
+| Year        | Degree/Certificate        | Institute                                             | 
+|-------------|--------------------------|-------------------------------------------------------|
+| 2022-2024   | M.Tech (CSE)             | Indian Institute of Technology Kanpur                 | 
+| 2018-2022   | B.Tech (CSBS)            | Sister Nivedita University, Kolkata                   | 
+| 2018        | CBSE (XII)               | Jawahar Navodaya Vidyalaya, Purba Medinipur           |
+| 2016        | CBSE (X)                 | Jawahar Navodaya Vidyalaya, Purba Medinipur           |
 
 ---
 
