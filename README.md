@@ -1,120 +1,151 @@
-# 👋 Hi, I'm Susovan Patra
+# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hi, I'm Susovan Patra
 
-**AI/ML Engineer | M.Tech (CSE) @ IIT Kanpur | Building Next-Gen AI Solutions**  
-🚀 Open to AI/ML/DL roles | 📧 susovanpatra00@gmail.com | 📱 +91-8597253561
-[GitHub](https://github.com/susovanpatra00) | [LinkedIn](https://www.linkedin.com/in/susovanpatra/)
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Voice+AI+Engineer+%7C+Building+Real-Time+AI;M.Tech+%40+IIT+Kanpur;LLMs+%7C+RAG+%7C+Speech+Processing;Open+to+AI%2FML%2FDL+Opportunities)](https://git.io/typing-svg)
 
----
+</div>
 
-## 🏫 Education
-
-| Year        | Degree/Certificate        | Institute                                             | 
-|-------------|--------------------------|-------------------------------------------------------|
-| 2022-2024   | M.Tech (CSE)             | Indian Institute of Technology Kanpur                 | 
-| 2018-2022   | B.Tech (CSBS)            | Sister Nivedita University, Kolkata                   | 
-| 2018        | CBSE (XII)               | Jawahar Navodaya Vidyalaya, Purba Medinipur           |
-| 2016        | CBSE (X)                 | Jawahar Navodaya Vidyalaya, Purba Medinipur           |
+<p align="center">
+  <a href="mailto:susovanpatra00@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/susovanpatra/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/susovanpatra00"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="tel:+918597253561"><img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+</p>
 
 ---
 
-## 💼 Work Experience
+## 🎓 Education
 
-**AI/ML Engineer**  
-*Motherson Technology Services Limited* (June 2024 - Present)
-
-- **Fine-Tuning Salesforce Code Generation Models:** Enhanced FreeCAD automation by fine-tuning Salesforce models for accurate and efficient code generation.
-- **ARIA Chatbot (RAG-based):** Developed an internal chatbot for company policies using advanced Retrieval-Augmented Generation, improving knowledge accessibility.
-- **Multi-Language Translator:** Built and deployed a 47x47 language translator supporting multiple file formats, now used across Motherson companies globally.
-- **M&A Contract Analysis:** Designed AI-driven contract comparison tools leveraging NLP and LLMs for due diligence.
-- **Speech Diarization & Task Tracking:** Developed systems for multi-speaker segmentation and automated task extraction from conversations.
-- **Real-Time Speech-to-Speech Translation:** Engineered multilingual, real-time voice translation using neural MT models and TTS.
-- **Confidential Knowledge Discovery Platform:** Built a secure, cross-company system for the Motherson Group that enables users to search confidential PDF/Excel data and web sources on any topic, with answers cited by source and enhanced by LLM-powered reasoning.
+**M.Tech in Computer Science & Engineering** | IIT Kanpur (2022-2024)  
+**B.Tech in Computer Science & Business Systems** | Sister Nivedita University (2018-2022)
 
 ---
 
-## 🚀 Featured Projects
+## 💼 Experience
 
-> **Pinned repositories**:  
-> - [Intelligent_ChatBot](https://github.com/susovanpatra00/Intelligent_ChatBot)  
-> - [Langchain-Practicals-and-Projects](https://github.com/susovanpatra00/Langchain-Practicals-and-Projects)  
-> - [CrewAI-YouTube-Blogger](https://github.com/susovanpatra00/CrewAI-YouTube-Blogger)  
-> - [Text-Generation](https://github.com/susovanpatra00/Text-Generation)  
-> - [Personalised-Voice-Assistant](https://github.com/susovanpatra00/Personalised-Voice-Assistant)  
-> - [YOLOv8-FineTuning-for-Traffic-Measurement](https://github.com/susovanpatra00/YOLOv8-FineTuning-for-Traffic-Measurement)
+### 🎙️ Voice AI Engineer *(Current)*
+Building real-time voice AI systems with TTS, ASR, and streaming pipelines
 
-### Selected Projects
-
-- **[End-to-End Text Summarization MLOps (Google Pegasus)](https://github.com/susovanpatra00/End-to-End-Text-Summarization):**  
-  Real-time document summarization web app using Google Pegasus, NLTK, Flask, and MLOps best practices.
-
-- **[YouTube Transcript to Detailed Notes Converter (Gemini-Pro)](https://github.com/susovanpatra00/YouTube-Transcript-to-Detailed-Notes-Converter):**  
-  Converts YouTube video transcripts into detailed summaries using Google Generative AI.
-
-- **[Real-Time Vehicle Detection with YOLOv8](https://github.com/susovanpatra00/YOLOv8-FineTuning-for-Traffic-Measurement):**  
-  Achieved 97.5% mAP in real-time vehicle detection and counting for traffic measurement.
-
-- **[Wine Quality Prediction: End-to-End MLOps](https://github.com/susovanpatra00/E2E_ML_Project):**  
-  Complete ML pipeline with MLflow, Docker, Flask, and AWS EC2 deployment.
-
-- **[Greek CAPTCHA Cracker](https://github.com/susovanpatra00/Greek-CAPTCHA-Cracker):**  
-  100% character recognition accuracy using SVM and OpenCV.
-
-- **[Automated Attendance Tracker (Facial Recognition)](https://github.com/susovanpatra00/Automated-Attendance-Tracker-using-Facial-Recognition):**  
-  Real-time attendance system using facial recognition and multithreaded optimization.
-
-- **[Personalized Voice Assistant Chatbot](https://github.com/susovanpatra00/Personalised-Voice-Assistant):**  
-  AI-powered voice assistant with audio transcription, summarization, and Q&A.
-
-- **[Automated News Reporter using CrewAI](https://github.com/susovanpatra00/News-Reporter-Using-CrewAI-Agents):**  
-  AI-driven news reporting system using CrewAI and Gemini-1.5-Flash.
-
-*...and many more public and private projects (available on request).*
+### 🤖 AI/ML Engineer *(Previous)*
+Developed LLM applications, RAG systems, multi-language translators, and speech processing pipelines
 
 ---
 
-## 🛠️ Skills
+## 🌟 Featured Projects
 
-- **Languages:** C, C++, Python, SQL
-- **Frameworks & Tools:** Scikit-learn, TensorFlow, NLTK, [LangChain](https://github.com/susovanpatra00/Langchain-Practicals-and-Projects), LlamaIndex, Streamlit, Flask, Transformers, Git
-- **Deployment:** AWS (EC2, Lambda, ECS, S3, DynamoDB, RDS, SQS, SNS), Docker
-- **AI/ML Techniques:** Fine-tuning, Machine Learning, Deep Learning, NLP, Generative AI, MLOps
-- **Vector Databases:** FAISS, ChromaDB, AstraDB, Pinecone, Neo4j
-- **Generative AI:** OpenAI, Gemini Pro, Gemma 2, Llama 2, Stable Diffusion
+<table>
+<tr>
+<td width="50%">
+
+### 🔊 [DieTra](https://github.com/susovanpatra00/DieTra)
+**Audio Processing Pipeline**
+
+Denoising + Diarization + Transcription using DeepFilterNet, NVIDIA NeMo, and Mistral Voxtral.
+
+🎯 **10-12GB VRAM** vs traditional 80GB+
+
+</td>
+<td width="50%">
+
+### 🧠 [Attention Playground](https://github.com/susovanpatra00/Attention-Playground)
+**7 Attention Mechanisms**
+
+From vanilla to Flash & Multi-Latent Attention with complexity analysis.
+
+📚 Deep dive into modern LLM architectures
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 📝 [Smart Meeting Minutes](https://github.com/susovanpatra00/Smart-Meeting-Minutes)
+**AI-powered MoM Generator**
+
+Whisper + GPT-3.5 + PyAnnote diarization with React frontend.
+
+⚡ Auto-generates professional meeting minutes
+
+</td>
+<td width="50%">
+
+### 🤖 [Intelligent ChatBot](https://github.com/susovanpatra00/Intelligent_ChatBot)
+**RAG-based Conversational AI**
+
+Context-aware chatbot with document retrieval and LangChain.
+
+💬 Multi-turn conversations with memory
+
+</td>
+</tr>
+</table>
+
+<details>
+<summary><b>🎨 More Projects</b></summary>
+
+- 🎬 **[CrewAI YouTube Blogger](https://github.com/susovanpatra00/CrewAI-YouTube-Blogger)** - Multi-agent content creation
+- 🚗 **[YOLOv8 Traffic Measurement](https://github.com/susovanpatra00/YOLOv8-FineTuning-for-Traffic-Measurement)** - 97.5% mAP vehicle detection
+- 📝 **[Text Summarization MLOps](https://github.com/susovanpatra00/End-to-End-Text-Summarization)** - Pegasus with MLOps
+- 🎥 **[YouTube to Notes](https://github.com/susovanpatra00/YouTube-Transcript-to-Detailed-Notes-Converter)** - Gemini-Pro summarization
+- 🍷 **[Wine Quality ML](https://github.com/susovanpatra00/E2E_ML_Project)** - Complete pipeline with MLflow & AWS
+- 👤 **[Face Recognition Attendance](https://github.com/susovanpatra00/Automated-Attendance-Tracker-using-Facial-Recognition)** - Real-time tracking
+- 🗣️ **[Voice Assistant](https://github.com/susovanpatra00/Personalised-Voice-Assistant)** - AI chatbot with audio capabilities
+
+</details>
 
 ---
 
-## 🏅 Certifications
+## 🛠️ Tech Stack
 
-- [NLP - Natural Language Processing with Python (Udemy)](https://www.udemy.com/certificate/UC-a1a5c662-ff24-4129-93a1-b3dd37876638/)
-- [Complete Generative AI Course with LangChain & Huggingface (Udemy)](https://www.udemy.com/certificate/UC-a528ed4c-9fd2-4d31-b160-8471b94d4c60/)
-- [AWS Cloud Technical Essentials (Coursera)](https://coursera.org/share/c6dbbea5e5dae980caced07b308631f7)
-- [Building Gen AI App: 12+ Hands-on Projects with Gemini Pro (Udemy)](https://www.udemy.com/certificate/UC-b7f54add-0f77-4570-87c4-e78bc794c8e5/)
+### 🤖 AI/ML & LLMs
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+</p>
 
----
-
-## 📫 Contact
-
-- **Email:** susovanpatra00@gmail.com/09susovanpatra3@gmail.com
-- **Phone:** +91-8597253561
-- **LinkedIn:** [Susovan Patra](https://www.linkedin.com/in/susovanpatra/)
-- **GitHub:** [susovanpatra00](https://github.com/susovanpatra00)
-
----
-
-## 📈 GitHub Stats
-
-![Susovan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=susovanpatra00&show_icons=true&theme=default)
-
----
-
-> **Tips for Recruiters:**  
-> - My best work is pinned above—please explore for code samples and project details.  
-> - I am open to discussing challenging AI/ML roles and research collaborations.  
-> - For confidential project details, please contact me directly.
+### 🗄️ Vector DBs & Cloud
+<p align="center">
+  <img src="https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/ChromaDB-FF6B35?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+</p>
 
 ---
 
-<!--
-**susovanpatra00/susovanpatra00** is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile!
--->
+## 📊 GitHub Stats
 
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=susovanpatra00&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=susovanpatra00&layout=compact&langs_count=8&theme=tokyonight"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=susovanpatra00&theme=tokyonight" alt="GitHub Streak"/>
+</p>
+
+---
+
+## 🤝 Let's Connect!
+
+<p align="center">
+  💼 <b>Open to Voice AI, ML/DL roles and research collaborations</b>
+</p>
+
+<p align="center">
+  📧 <a href="mailto:susovanpatra00@gmail.com">susovanpatra00@gmail.com</a> | 
+  📱 +91-8597253561
+</p>
+
+<p align="center">
+  <i>"Building real-time AI systems, one model at a time"</i> 🎙️✨
+</p>
+
+---
