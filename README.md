@@ -123,7 +123,7 @@ Context-aware chatbot with document retrieval and LangChain.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=susovanpatra00&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=susovanpatra00&show_icons=true&theme=tokyonight&include_all_commits=true&include_all_commits=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=susovanpatra00&layout=compact&langs_count=8&theme=tokyonight"/>
 </p>
 
