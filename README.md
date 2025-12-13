@@ -145,26 +145,6 @@ Context-aware chatbot with document retrieval and LangChain.
 
 *Last updated: December 13, 2025 at 03:43 UTC*
 
-
---------|--------|----------|
-| 💻 **Total Commits** | **128** | **633** |
-| 🔀 **Pull Requests** | **9** | **9** |
-| 👀 **Code Reviews** | **12** | **12** |
-| 🐛 **Issues Created** | **0** | - |
-
-<br/>
-
-### 🔥 Current Streak
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=susovanpatra00&theme=tokyonight" alt="GitHub Streak"/>
-
-### 📊 Language Distribution
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=susovanpatra00&layout=compact&langs_count=8&theme=tokyonight"/>
-
-</div>
-
-*Last updated: December 12, 2025 at 14:30 UTC*
-
-
 ---
 
 ## 🤝 Let's Connect!
