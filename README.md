@@ -136,7 +136,7 @@ Context-aware chatbot with document retrieval and LangChain.
 <br/>
 
 ### 🔥 Current Streak
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=susovanpatra00&theme=tokyonight" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com?user=susovanpatra00&theme=tokyonight" />
 
 ### 📊 Language Distribution
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=susovanpatra00&layout=compact&langs_count=8&theme=tokyonight"/>
@@ -154,8 +154,7 @@ Context-aware chatbot with document retrieval and LangChain.
 </p>
 
 <p align="center">
-  📧 <a href="mailto:susovanpatra00@gmail.com">susovanpatra00@gmail.com</a> | 
-  📱 +91-8597253561
+  📧 <a href="mailto:susovanpatra00@gmail.com">susovanpatra00@gmail.com</a> 
 </p>
 
 <p align="center">
