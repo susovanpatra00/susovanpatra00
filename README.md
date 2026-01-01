@@ -127,13 +127,13 @@ Context-aware chatbot with document retrieval and LangChain.
 
 <div align="center">
 
-### 📈 Contribution Statistics (2025)
+### 📈 Contribution Statistics (2026)
 
 | Metric | Count |
 |------|------|
-| 💻 **Commits** | **139** |
-| 🔀 **Pull Requests** | **10** |
-| 👀 **Code Reviews** | **16** |
+| 💻 **Commits** | **0** |
+| 🔀 **Pull Requests** | **0** |
+| 👀 **Code Reviews** | **0** |
 | 🐛 **Issues Created** | **0** |
 
 <br/>
@@ -146,7 +146,7 @@ Context-aware chatbot with document retrieval and LangChain.
 
 </div>
 
-*Last updated: December 31, 2025 at 01:27 UTC*
+*Last updated: January 01, 2026 at 01:45 UTC*
 
 
 <!-- GITHUB_STATS_END -->
