@@ -4,7 +4,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=700&lines=Building+real-time+speech-to-speech+AI+systems;LLM+%7C+RAG+%7C+ASR+%7C+TTS+%7C+Diarization;%3C600ms+end-to-end+voice+agent+latency;M.Tech+%40+IIT+Kanpur)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=800&lines=Building+real-time+speech-to-speech+AI+systems;LLM+%7C+RAG+%7C+ASR+%7C+TTS+%7C+Speaker+Diarization;%3C600ms+end-to-end+voice+agent+latency;M.Tech+%40+IIT+Kanpur)](https://git.io/typing-svg)
 
 <br/>
 
