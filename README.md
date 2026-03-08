@@ -190,7 +190,15 @@ Sensor fusion (accelerometer + compass + ML) achieving **±20–30m accuracy** o
 ---
 
 <div align="center">
+  <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&text=Open%20to%20Voice%20AI%20%26%20ML%20roles&fontSize=20&fontColor=a78bfa&fontAlignY=50" />
+  ![Open to Roles](https://img.shields.io/badge/💼%20Open%20to%20Voice%20AI%20%26%20ML%20Roles-7c3aed?style=for-the-badge&logoColor=white)
+
+  <br/>
+
+  [![Email](https://img.shields.io/badge/📧%20susovanpatra00@gmail.com-E84393?style=flat-square&logoColor=white)](mailto:susovanpatra00@gmail.com)
+
+  <br/><br/>
+  <sub><i>"Building real-time AI systems, one model at a time." 🎙️</i></sub>
 
 </div>
