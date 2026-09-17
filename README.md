@@ -195,8 +195,6 @@ Sensor fusion (accelerometer + compass + ML) achieving **±20–30m accuracy** o
 
   <br/>
 
-  [![Email](https://img.shields.io/badge/📧%2009susovanpatra3@gmail.com-E84393?style=flat-square&logoColor=white)](mailto:susovanpatra00@gmail.com)
-
   <br/><br/>
   <sub><i>"Building real-time AI systems, one model at a time." 🎙️</i></sub>
 
