@@ -11,7 +11,6 @@
 [![Email](https://img.shields.io/badge/✉%20Email-susovanpatra00@gmail.com-E84393?style=for-the-badge&logoColor=white)](mailto:susovanpatra00@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Susovan%20Patra-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/susovanpatra/)
 [![GitHub](https://img.shields.io/badge/GitHub-susovanpatra00-1a1a2e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/susovanpatra00)
-[![Phone](https://img.shields.io/badge/📞-+91--8597253561-25D366?style=for-the-badge)](tel:+918597253561)
 
 </div>
 
