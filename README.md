@@ -8,7 +8,7 @@
 
 <br/>
 
-[![Email](https://img.shields.io/badge/✉%20Email-susovanpatra00@gmail.com-E84393?style=for-the-badge&logoColor=white)](mailto:susovanpatra00@gmail.com)
+[![Email](https://img.shields.io/badge/✉%20Email-09susovanpatra3@gmail.com-E84393?style=for-the-badge&logoColor=white)](mailto:susovanpatra00@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Susovan%20Patra-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/susovanpatra/)
 [![GitHub](https://img.shields.io/badge/GitHub-susovanpatra00-1a1a2e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/susovanpatra00)
 
